@@ -1,5 +1,5 @@
 [Code](https://github.com/lee-jin81/metis_project_5_nlp/tree/main/Code_nlp) <br>
-Slides <br>
+[Slides](https://github.com/lee-jin81/metis_project_5_nlp/blob/main/slides_nlp_medical_records.pdf) <br>
 [Final writeup](https://github.com/lee-jin81/metis_project_5_nlp/blob/main/writeup_nlp.pdf) <br>
 [MVP](https://github.com/lee-jin81/metis_project_5_nlp/blob/main/nlp_mvp.md) <br>
 [Proposal](https://github.com/lee-jin81/metis_project_5_nlp/blob/main/nlp_proposal.pdf) <br>
