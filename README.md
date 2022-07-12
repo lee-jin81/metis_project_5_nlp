@@ -1,3 +1,6 @@
+Code <br>
+Slides <br>
+Final writeup <br>
 [MVP](https://github.com/lee-jin81/metis_project_5_nlp/blob/main/nlp_mvp.md) <br>
 [Proposal](https://github.com/lee-jin81/metis_project_5_nlp/blob/main/nlp_proposal.pdf) <br>
 
