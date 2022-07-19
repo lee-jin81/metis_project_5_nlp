@@ -4,7 +4,7 @@
 [MVP](https://github.com/lee-jin81/metis_project_5_nlp/blob/main/nlp_mvp.md) <br>
 [Proposal](https://github.com/lee-jin81/metis_project_5_nlp/blob/main/nlp_proposal.pdf) <br>
 
-# Using natural languagae processing to interpret medical records
+# Using natural language processing to interpret medical records
 
 ## Abstract
 Healthcare records are unstructured textual data holding valuable information about patients and diseases. Since the data is unstructured, we can’t do analytics directly on them in order to extract meaningful information for future research. Natural language processing (NLP) can be used to extract valuable information from medical records of patients. The documents were preprocessed by removing words that are not meaningful and then tokenized into words. A document-term matrix was built using a vectorizer that will assign a value to the frequency of words. Features were reduced to 10 topics using topic modeling. Finally, a recommendation system was built that will find similar medical records based on a current document.
