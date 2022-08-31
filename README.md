@@ -18,6 +18,9 @@ I’m proposing to use NLP to extract valuable information from medical records 
 * Source: [Kaggle Medical transcriptions](https://www.kaggle.com/datasets/tboyle10/medicaltranscriptions)
 * Data set: 4,998 documents across 38 different medical specialties
 
+## Algorithms
+An unsupervised model was built by tokenization of the documents using NLTK. The cleaned document was vectorized using TF-IDF (term frequency inverse document frequency) and then topic modeling (NMF: non-negative matrix factorization) was applied for dimension reduction of 10 topics. The terms associated with the topics were not readily identifiable. Some topics contain terms that were too general or are medical jargons. The results were integrated into a content-based recommendation system. The user will input a document and 3 similar documents will be recommended for viewing.
+
 ## Tools
 * Text processing: Python, text processing libraries (NLTK, scikit-learn), pandas
 * Visualizations: matplotlib, wordCloud
